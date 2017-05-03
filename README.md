@@ -14,3 +14,8 @@ Stages of the development of matching algorithm:
 
 * [ ] Direct matching on a per-word or per-phase basis
 * [ ] Similarity matching using vector space modeling. Using word vectors from <https://github.com/cambridgeltl/BioNLP-2016> and the [doc2vec approach](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)
+
+
+## Installation
+
+Additionally to having Quicklisp you'll need to clone [crawlik](https://github.com/vseloved/crawlik) to `~/common-lisp/`.
